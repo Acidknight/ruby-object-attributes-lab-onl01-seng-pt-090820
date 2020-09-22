@@ -14,7 +14,3 @@ class Dog
     @this_dogs_breed
   end 
 end
-
-fido = Dog.new 
-fido.name = "Fido"
-fido.name
